@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<template/> deveria ser igual ao snapshot 1`] = `
+<nav class="navbar">
+  <router-link-stub to="[object Object]" class="navbar__item">Page 1</router-link-stub>
+  <router-link-stub to="[object Object]" class="navbar__item">Page 2</router-link-stub>
+  <router-link-stub to="[object Object]" class="navbar__item">Page 3</router-link-stub>
+  <router-link-stub to="[object Object]" class="navbar__item">Page 4</router-link-stub>
+  <router-link-stub to="[object Object]" class="navbar__item">Page 5</router-link-stub>
+</nav>
+`;

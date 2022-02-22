@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<template/> deveria ser igual ao snapshot 1`] = `
+<div class="alert" style="background-color: rgb(55, 71, 79); border-color: #263238;">
+  <section class="alert__message-outer"><i class="mdi alert__type-icon mdi-alert-circle" style="display: none;"></i>
+    <p class="alert__message"></p>
+  </section> <button class="alert__btn-close"><i class="mdi mdi-close-circle alert__btn-close-icon"></i></button>
+</div>
+`;

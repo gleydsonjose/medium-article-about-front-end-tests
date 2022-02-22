@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<template/> deveria ser igual ao snapshot 1`] = `
+<button class="button" style="background-color: rgb(55, 71, 79); border-color: #263238;"><i class="mdi button__icon mdi-alert-circle" style="display: none;"></i>
+  <p class="button__text"></p>
+</button>
+`;

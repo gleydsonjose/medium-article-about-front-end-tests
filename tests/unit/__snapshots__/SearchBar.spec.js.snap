@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<template/> deveria ser igual ao snapshot 1`] = `
+<div class="search-bar">
+  <div class="search-bar__input-outer"><input type="text" placeholder="" class="search-bar__input"> <button class="search-bar__close-button"><i class="mdi mdi-close search-bar__close-button-icon"></i></button></div>
+  <!---->
+</div>
+`;

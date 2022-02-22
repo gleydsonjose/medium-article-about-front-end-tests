@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<template/> deveria ser igual ao snapshot 1`] = `
+<section class="card">
+  <div class="card-inner">
+    <div class="card__user-image"><i class="mdi mdi-account card__user-image-inner"></i></div>
+    <h1 class="card__user-name">Nome do usuário</h1>
+    <p class="card__user-biography">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam quaerat
+      numquam maxime praesentium inventore commodi rem excepturi earum labore,
+      est officiis dolore cum facere illo nobis exercitationem asperiores
+      eaque. Reiciendis?
+    </p>
+    <p class="card__user-country"><i class="mdi mdi-map-marker-outline"></i>
+      Hamilton, Ontario - Canadá
+    </p>
+  </div>
+</section>
+`;

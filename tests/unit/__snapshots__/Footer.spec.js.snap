@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<template/> deveria ser igual ao snapshot 1`] = `
+<footer class="footer">
+  <section class="footer__social-media-group"><a target="_blank" href="https://pt-br.facebook.com" class="footer__social-media footer__social-media--facebook"><i class="mdi mdi-facebook"></i></a> <a target="_blank" href="https://web.whatsapp.com" class="footer__social-media footer__social-media--whatsapp"><i class="mdi mdi-whatsapp"></i></a> <a target="_blank" href="https://twitter.com/" class="footer__social-media footer__social-media--twitter"><i class="mdi mdi-twitter"></i></a> <a target="_blank" href="https://www.instagram.com/" class="footer__social-media footer__social-media--instagram"><i class="mdi mdi-instagram"></i></a></section>
+  <p class="footer__copyright-text">
+    Copyright © 2022 Tests. All rights reserved.
+  </p>
+</footer>
+`;
